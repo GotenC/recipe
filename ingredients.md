@@ -1,3 +1,5 @@
+Let's begin!
+
 Pancake Ingredients
 Dry:
 Flour
@@ -10,3 +12,5 @@ Milk
 Oil
 Vanilla Extract
 Butter
+
+Enjoy my recipe!
